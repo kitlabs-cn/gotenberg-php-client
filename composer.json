@@ -1,5 +1,5 @@
 {
-  "name": "thecodingmachine/gotenberg-php-client",
+  "name": "kitlabs-cn/gotenberg-php-client",
   "description": "A client for sending files to a Gotenberg API",
   "keywords" : [
     "Gotenberg",
